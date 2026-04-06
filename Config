@@ -1,0 +1,11 @@
+建筑物配置表				
+索引	建筑类型	建筑名称	静态网格体	允许部署地块类型
+id	BuildingType	BuildingName	PreviewMesh	AllowPlotTypes
+uint8	EBuildingType	Ftext	UStaticMesh*	EPlotType
+1	A	民居		
+2	A	商铺		
+3	A	茶肆		
+4	A	驿站		
+5	B	地基		
+6	B	仓库		
+7	B	马头墙	
